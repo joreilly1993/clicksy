@@ -1,0 +1,23 @@
+.button1 {
+    width: 5vmin;
+    height: 5vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
+button:hover {
+    background-color: green;
+}
+
+.clicked {
+    display: none;
+}
+
+.heading {
+    font-family: calibri, tahoma, sans serif;
+    font-size: 5vmin;
+}
