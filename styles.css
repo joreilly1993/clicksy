@@ -42,6 +42,28 @@
     position: absolute;
 }
 
+.button5 {
+    width: 5vmin;
+    height: 5vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
+.button6 {
+    width: 3vmin;
+    height: 3vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
 button:hover {
     background-color: green;
 }
