@@ -1,6 +1,39 @@
 .button1 {
-    width: 5vmin;
-    height: 5vmin;
+    width: 50vmin;
+    height: 50vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
+.button2 {
+    width: 35vmin;
+    height: 35vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
+.button3 {
+    width: 20vmin;
+    height: 20vmin;
+    border-radius: 50%;
+    border-color: white;
+    background-color: red;
+    color: white;
+    box-shadow: 3px 3px 3px black;
+    position: absolute;
+}
+
+.button4 {
+    width: 10vmin;
+    height: 10vmin;
     border-radius: 50%;
     border-color: white;
     background-color: red;
